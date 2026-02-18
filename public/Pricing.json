@@ -1,0 +1,60 @@
+[
+  {
+    "id": 1,
+    "title": "Basic Plan",
+    "price": "$29",
+    "duration": "Monthly",
+    "features": [
+      "Full access to gym equipment",
+      "Cardio & strength training area",
+      "Locker room access",
+      "1 Free fitness assessment",
+      "Free WiFi",
+      "Drinking water facility",
+      "Access during standard hours (6AM - 10PM)",
+      "Mobile app workout tracking"
+    ],
+    "popular": false,
+    "buttonText": "Join Now"
+  },
+  {
+    "id": 2,
+    "title": "Standard Plan",
+    "price": "$79",
+    "duration": "Monthly",
+    "features": [
+      "All Basic plan features",
+      "Unlimited group classes (Yoga, Zumba, HIIT)",
+      "Personalized diet consultation",
+      "2 Personal trainer sessions per month",
+      "Body composition analysis",
+      "Steam & sauna access",
+      "Priority customer support",
+      "Guest pass (1 per month)",
+      "Access to weekend workshops"
+    ],
+    "popular": true,
+    "buttonText": "Get Started"
+  },
+  {
+    "id": 3,
+    "title": "Premium Plan",
+    "price": "$149",
+    "duration": "Monthly",
+    "features": [
+      "All Standard plan features",
+      "Unlimited personal training sessions",
+      "Customized workout program",
+      "24/7 gym access",
+      "Private locker",
+      "Free gym merchandise (T-shirt & bottle)",
+      "Monthly progress tracking report",
+      "Nutrition & supplement guidance",
+      "VIP lounge access",
+      "Bring 2 guests per month",
+      "Exclusive fitness events access"
+    ],
+    "popular": false,
+    "buttonText": "Become a Member"
+  }
+]
