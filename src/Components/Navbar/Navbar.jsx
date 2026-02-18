@@ -51,9 +51,7 @@ const Navbar = () => {
   transform transition-all duration-300 ease-in-out */}
 
         <div
-  className={`bg-amber-100 text-black p-3 lg:hidden absolute top-15 
-  transform transition-all duration-300 ease-in-out
-  ${open ? "-translate-y-10 opacity-0 pointer-events-none" :  "translate-y-0 opacity-100"}`}
+  className={`bg-amber-200 absolute lg:hidden p-2 ${open?"-top-40":"top-15"} duration-1000 text-black`}
 >
   <ul>{it}</ul>
 </div>
